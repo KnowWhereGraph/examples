@@ -1,4 +1,4 @@
-# Katrina Path
+# Hurricane Katrina Path
 
 This example demonstrates how to use KnowWhereGraph's SPARQL endpoint to
 download, plot, and export the trajectory of Hurricane Katrina (2005) as
