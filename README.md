@@ -1,6 +1,6 @@
 # KnowWhereGraph Examples
 
-A repository for showcasing diffent use cases of KnowWhereGraph.
+A repository for showcasing different use cases of KnowWhereGraph.
 
 
 ## Running
