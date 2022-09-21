@@ -1,0 +1,10 @@
+hospital,has_helipad,name,bed_count,wkt
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.COTTAGEREHABILITATIONHOSPITAL,http://stko-kwg.geog.ucsb.edu/lod/resource/no,COTTAGE REHABILITATION HOSPITAL,38.0,POINT (-119.72274 34.43297)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.GOLETAVALLEYCOTTAGEHOSPITAL,http://stko-kwg.geog.ucsb.edu/lod/resource/no,GOLETA VALLEY COTTAGE HOSPITAL,52.0,POINT (-119.81030 34.43382)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.LOMPOCVALLEYMEDICALCENTER,http://stko-kwg.geog.ucsb.edu/lod/resource/no,LOMPOC VALLEY MEDICAL CENTER,60.0,POINT (-120.43953 34.64091)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.LOMPOCVALLEYMEDICALCENTERCOMPREHENSIVECARECENTERDPS,http://stko-kwg.geog.ucsb.edu/lod/resource/no,LOMPOC VALLEY MEDICAL CENTER COMPREHENSIVE CARE CENTER D/P S,110.0,POINT (-120.44478 34.64133)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.MARIANMEDICALCENTER,http://stko-kwg.geog.ucsb.edu/lod/resource/yes,MARIAN MEDICAL CENTER,321.0,POINT (-120.41313 34.95120)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.SANTABARBARACOTTAGEHOSPITAL,http://stko-kwg.geog.ucsb.edu/lod/resource/yes,SANTA BARBARA COTTAGE HOSPITAL,412.0,POINT (-119.72381 34.42947)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.SANTABARBARAPSYCHIATRICHEALTHFACILITY,http://stko-kwg.geog.ucsb.edu/lod/resource/no,SANTA BARBARA PSYCHIATRIC HEALTH FACILITY,16.0,POINT (-119.78063 34.44414)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.SANTAYNEZVALLEYCOTTAGEHOSPITAL,http://stko-kwg.geog.ucsb.edu/lod/resource/no,SANTA YNEZ VALLEY COTTAGE HOSPITAL,11.0,POINT (-120.12630 34.60208)
+http://stko-kwg.geog.ucsb.edu/lod/resource/hospital.THECHAMPIONCENTER,http://stko-kwg.geog.ucsb.edu/lod/resource/no,THE CHAMPION CENTER,34.0,POINT (-120.45219 34.63537)
