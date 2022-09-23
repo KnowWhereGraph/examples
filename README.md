@@ -1,6 +1,6 @@
 # KnowWhereGraph Examples
 
-A repository for showcasing different use cases of KnowWhereGraph.
+A repository for showcasing different use cases of KnowWhereGraph. Interactive visualizations can be viewed from [here](https://nbviewer.org/github/KnowWhereGraph/examples/blob/main/relief_map/map.ipynb).
 
 
 ## Running
