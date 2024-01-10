@@ -1,2 +1,1 @@
-rdflib==5.0.0
-sparqlwrapper
+sparqlwrapper==2.0.0
