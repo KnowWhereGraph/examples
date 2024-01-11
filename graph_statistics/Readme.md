@@ -7,5 +7,5 @@ This generates node statistics for the KnowWhereGraph subgraphs. It retrieves th
 ## Running
 
 1. `docker build -t graph_stats .`
-2. `docker run -v results:/results graph_stats`
+2. `docker run -v ./results:/results graph_stats`
 3. Once the queries complete, view the results in the `results/` folder
